@@ -1,5 +1,7 @@
 export default {
     abaddon: {
+        name: 'Abaddon',
+
         attackSpeed: 143,
         damage: 55,
         damageIncr: 2.6,
@@ -23,6 +25,8 @@ export default {
     },
 
     alchemist: {
+        name: 'Alchemist',
+
         attackSpeed: 122,
         damage: 55,
         damageIncr: 2.9,
@@ -46,6 +50,8 @@ export default {
     },
 
     axe: {
+        name: 'Axe',
+
         attackSpeed: 120,
         damage: 54,
         damageIncr: 3.4,
@@ -69,6 +75,8 @@ export default {
     },
 
     beastmaster: {
+        name: 'Beastmaster',
+
         attackSpeed: 117,
         damage: 56,
         damageIncr: 2.9,
@@ -92,6 +100,8 @@ export default {
     },
 
     brewmaster: {
+        name: 'Brewmaster',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -115,6 +125,8 @@ export default {
     },
     
     bristleback: {
+        name: 'Bristleback',
+
         attackSpeed: 110,
         damage: 55,
         damageIncr: 2.5,
@@ -137,7 +149,9 @@ export default {
         intelligenceIncr: 2.8,
     },
 
-    centaurWarunner: {
+    centaurWarrunner: {
+        name: 'Centaur Warrunner',
+        
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -161,6 +175,8 @@ export default {
     },
 
     chaosKnight: {
+        name: 'Chaos Knight',
+
         attackSpeed: 117,
         damage: 65,
         damageIncr: 3,
@@ -184,6 +200,8 @@ export default {
     },
 
     clockwerk: {
+        name: 'Clockwerk',
+        
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -207,6 +225,8 @@ export default {
     },
 
     dawnbreaker: {
+        name: 'Dawnbreaker',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -230,6 +250,8 @@ export default {
     },
 
     doom: {
+        name: 'Doom',
+
         attackSpeed: 99,
         damage: 63,
         damageIncr: 3.7,
@@ -253,6 +275,8 @@ export default {
     },
 
     dragonKnight: {
+        name: 'Dragon Knight',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -276,6 +300,8 @@ export default {
     },
 
     earthSpirit: {
+        name: 'Earth Spirit',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -345,6 +371,8 @@ export default {
     },
 
     huskar: {
+        name: 'Huskar',
+
         attackSpeed: 116,
         damage: 43,
         damageIncr: 3.3,
@@ -368,6 +396,8 @@ export default {
     },
 
     io: {
+        name: 'Io',
+
         attackSpeed: 114,
         damage: 48,
         damageIncr: 3,
@@ -529,6 +559,8 @@ export default {
     },
 
     mars: {
+        name: 'Mars',
+
         attackSpeed: 113,
         damage: 56,
         damageIncr: 3.7,
@@ -621,6 +653,8 @@ export default {
     },
 
     primalBeast: {
+        name: 'Primal Beast',
+
         attackSpeed: 108,
         damage: 63,
         damageIncr: 4.3,
@@ -644,6 +678,8 @@ export default {
     },
 
     pudge: {
+        name: 'Pudge',
+
         attackSpeed: 114,
         damage: 70,
         damageIncr: 3,
@@ -713,6 +749,8 @@ export default {
     },
 
     snapFire: {
+        name: 'Snap Fire',
+
         attackSpeed: 123,
         damage: 49,
         damageIncr: 3.5,
@@ -828,6 +866,8 @@ export default {
     },
 
     tiny: {
+        name: 'Tiny',
+
         attackSpeed: 90,
         damage: 64,
         damageIncr: 4,
@@ -920,6 +960,8 @@ export default {
     },
 
     undying: {
+        name: 'Undying',
+        
         attackSpeed: 110,
         damage: 61,
         damageIncr: 2.8,
@@ -943,6 +985,8 @@ export default {
     },
 
     wraithKing: {
+        name: 'Wraith King',
+
         attackSpeed: 116,
         damage: 61,
         damageIncr: 3,
@@ -966,6 +1010,8 @@ export default {
     },
 
     antiMage: {
+        name: 'Anti Mage',
+
         attackSpeed: 150,
         damage: 55,
         damageIncr: 2.8,
@@ -1035,6 +1081,8 @@ export default {
     },
 
     bountyHunter: {
+        name: 'Bounty Hunter',
+
         attackSpeed: 121,
         damage: 55,
         damageIncr: 2.6,
@@ -1196,6 +1244,8 @@ export default {
     },
 
     hoodwink: {
+        name: 'Hoodwink',
+
         attackSpeed: 105,
         damage: 49,
         damageIncr: 3.6,
@@ -1219,6 +1269,8 @@ export default {
     },
 
     juggernaut: {
+        name: 'Juggernaut',
+
         attackSpeed: 174,
         damage: 52,
         damageIncr: 2.8,
@@ -1334,6 +1386,8 @@ export default {
     },
 
     mirana: {
+        name: 'Mirana',
+
         attackSpeed: 134,
         damage: 51,
         damageIncr: 3.4,
@@ -1472,6 +1526,8 @@ export default {
     },
 
     phantomAssassin: {
+        name: 'Phantom Assassin',
+
         attackSpeed: 123,
         damage: 56,
         damageIncr: 3.4,
@@ -1564,6 +1620,8 @@ export default {
     },
 
     shadowFiend: {
+        name: 'Shadow Fiend',
+
         attackSpeed: 127,
         damage: 42,
         damageIncr: 3.5,
@@ -1587,6 +1645,8 @@ export default {
     },
 
     slark: {
+        name: 'Slark',
+
         attackSpeed: 131,
         damage: 57,
         damageIncr: 1.7,
@@ -1610,6 +1670,8 @@ export default {
     },
 
     sniper: {
+        name: 'Sniper',
+
         attackSpeed: 127,
         damage: 43,
         damageIncr: 3.2,
@@ -1656,6 +1718,8 @@ export default {
     },
 
     templarAssassin: {
+        name: 'Templar Assassin',
+
         attackSpeed: 123,
         damage: 56,
         damageIncr: 3.2,
@@ -1679,6 +1743,8 @@ export default {
     },
 
     terrorblade: {
+        name: 'Terrorblade',
+
         attackSpeed: 149,
         damage: 55,
         damageIncr: 4,
@@ -1702,6 +1768,8 @@ export default {
     },
 
     trollWarlord: {
+        name: 'Troll Warlord',
+
         attackSpeed: 121,
         damage: 52,
         damageIncr: 3.3,
@@ -1725,6 +1793,8 @@ export default {
     },
 
     ursa: {
+        name: 'Ursa',
+
         attackSpeed: 117,
         damage: 44,
         damageIncr: 2.6,
@@ -1771,6 +1841,8 @@ export default {
     },
 
     venomancer: {
+        name: 'Venomancer',
+
         attackSpeed: 139,
         damage: 47,
         damageIncr: 2.8,
@@ -1794,6 +1866,8 @@ export default {
     },
 
     viper: {
+        name: 'viper',
+
         attackSpeed: 141,
         damage: 49,
         damageIncr: 2.7,
@@ -1817,6 +1891,8 @@ export default {
     },
 
     weaver: {
+        name: 'Weaver',
+
         attackSpeed: 129,
         damage: 57,
         damageIncr: 3.1,
