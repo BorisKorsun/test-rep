@@ -22,6 +22,8 @@ export default [
         strengthIncr: 2.6,
         agilityIncr: 1.5,
         intelligenceIncr: 2,
+
+        id: 1,
     },
 
     {
@@ -47,6 +49,8 @@ export default [
         strengthIncr: 2.9,
         agilityIncr: 1.5,
         intelligenceIncr: 1.8,
+
+        id: undefined,
     },
 
     {
@@ -72,6 +76,8 @@ export default [
         strengthIncr: 3.4,
         agilityIncr: 2.2,
         intelligenceIncr: 1.6,
+
+        id: undefined,
     },
 
     {
@@ -97,6 +103,8 @@ export default [
         strengthIncr: 2.9,
         agilityIncr: 1.6,
         intelligenceIncr: 1.9,
+
+        id: undefined,
     },
 
     {
@@ -122,6 +130,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
     
     {
@@ -147,6 +157,8 @@ export default [
         strengthIncr: 2.5,
         agilityIncr: 1.8,
         intelligenceIncr: 2.8,
+
+        id: undefined,
     },
 
     {
@@ -172,6 +184,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -197,6 +211,8 @@ export default [
         strengthIncr: 3,
         agilityIncr: 2.2,
         intelligenceIncr: 1.6,
+
+        id: undefined,
     },
 
     {
@@ -222,6 +238,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -247,6 +265,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -272,6 +292,8 @@ export default [
         strengthIncr: 3.7,
         agilityIncr: 0.9,
         intelligenceIncr: 1.7,
+
+        id: undefined,
     },
 
     {
@@ -297,6 +319,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -322,6 +346,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -347,6 +373,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -372,6 +400,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -397,6 +427,8 @@ export default [
         strengthIncr: 3.3,
         agilityIncr: 1.5,
         intelligenceIncr: 1.5,
+
+        id: undefined,
     },
 
     {
@@ -422,6 +454,8 @@ export default [
         strengthIncr: 3,
         agilityIncr: 1.6,
         intelligenceIncr: 1.7,
+
+        id: undefined,
     },
 
     {
@@ -447,6 +481,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -472,6 +508,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+
     },
 
     {
@@ -497,6 +535,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -522,6 +562,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -547,6 +589,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -572,6 +616,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -597,6 +643,8 @@ export default [
         strengthIncr: 3.7,
         agilityIncr: 1.7,
         intelligenceIncr: 2.2,
+
+        id: undefined,
     },
 
     {
@@ -622,6 +670,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -647,6 +697,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -672,6 +724,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -697,6 +751,8 @@ export default [
         strengthIncr: 4.3,
         agilityIncr: 1,
         intelligenceIncr: 1.4,
+
+        id: undefined,
     },
 
     {
@@ -722,6 +778,8 @@ export default [
         strengthIncr: 3,
         agilityIncr: 1.4,
         intelligenceIncr: 1.8,
+
+        id: undefined,
     },
 
     {
@@ -747,6 +805,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -772,6 +832,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -797,6 +859,8 @@ export default [
         strengthIncr: 3.5,
         agilityIncr: 1.9,
         intelligenceIncr: 2.2,
+
+        id: undefined,
     },
 
     {
@@ -822,6 +886,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -847,6 +913,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -872,6 +940,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -897,6 +967,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -922,6 +994,8 @@ export default [
         strengthIncr: 4,
         agilityIncr: 0,
         intelligenceIncr: 2.2,
+
+        id: undefined,
     },
 
     {
@@ -947,6 +1021,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -972,6 +1048,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -997,6 +1075,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -1022,6 +1102,8 @@ export default [
         strengthIncr: 2.8,
         agilityIncr: 1.2,
         intelligenceIncr: 2.8,
+
+        id: undefined,
     },
 
     {
@@ -1047,6 +1129,8 @@ export default [
         strengthIncr: 3,
         agilityIncr: 1.7,
         intelligenceIncr: 1.6,
+
+        id: undefined,
     },
 
     {
@@ -1072,6 +1156,8 @@ export default [
         strengthIncr: 1.6,
         agilityIncr: 2.8,
         intelligenceIncr: 1.8,
+
+        id: undefined,
     },
 
     {
@@ -1097,6 +1183,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -1122,6 +1210,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -1147,6 +1237,8 @@ export default [
         strengthIncr: 2.5,
         agilityIncr: 2.6,
         intelligenceIncr: 1.9,
+
+        id: undefined,
     },
 
     {
@@ -1172,6 +1264,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -1197,6 +1291,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -1222,6 +1318,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -1247,6 +1345,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -1272,6 +1372,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -1297,6 +1399,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -1322,6 +1426,8 @@ export default [
         strengthIncr: 2,
         agilityIncr: 3.6,
         intelligenceIncr: 2.9,
+
+        id: undefined,
     },
 
     {
@@ -1347,6 +1453,8 @@ export default [
         strengthIncr: 2.2,
         agilityIncr: 2.8,
         intelligenceIncr: 1.4,
+
+        id: undefined,
     },
 
     {
@@ -1372,6 +1480,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -1397,6 +1507,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -1422,6 +1534,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -1447,6 +1561,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -1472,6 +1588,8 @@ export default [
         strengthIncr: 2.2,
         agilityIncr: 3.4,
         intelligenceIncr: 1.9,
+
+        id: undefined,
     },
 
     {
@@ -1497,6 +1615,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -1522,6 +1642,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -1547,6 +1669,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -1572,6 +1696,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -1597,6 +1723,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -1622,6 +1750,8 @@ export default [
         strengthIncr: 2.2,
         agilityIncr: 3.4,
         intelligenceIncr: 1.4,
+
+        id: undefined,
     },
 
     {
@@ -1647,6 +1777,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -1672,6 +1804,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -1697,6 +1831,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -1722,6 +1858,8 @@ export default [
         strengthIncr: 2.7,
         agilityIncr: 3.5,
         intelligenceIncr: 2.2,
+
+        id: undefined,
     },
 
     {
@@ -1747,6 +1885,8 @@ export default [
         strengthIncr: 1.9,
         agilityIncr: 1.7,
         intelligenceIncr: 1.7,
+
+        id: undefined,
     },
 
     {
@@ -1772,6 +1912,8 @@ export default [
         strengthIncr: 2,
         agilityIncr: 3.2,
         intelligenceIncr: 2.6,
+
+        id: undefined,
     },
 
     {
@@ -1797,6 +1939,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -1822,6 +1966,8 @@ export default [
         strengthIncr: 2.4,
         agilityIncr: 3.2,
         intelligenceIncr: 2,
+
+        id: undefined,
     },
 
     {
@@ -1847,6 +1993,8 @@ export default [
         strengthIncr: 2,
         agilityIncr: 4,
         intelligenceIncr: 1.6,
+
+        id: undefined,
     },
 
     {
@@ -1872,6 +2020,8 @@ export default [
         strengthIncr: 2.5,
         agilityIncr: 3.3,
         intelligenceIncr: 1,
+
+        id: undefined,
     },
 
     {
@@ -1897,6 +2047,8 @@ export default [
         strengthIncr: 2.6,
         agilityIncr: 2.6,
         intelligenceIncr: 1.5,
+
+        id: undefined,
     },
 
     {
@@ -1922,6 +2074,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -1947,6 +2101,8 @@ export default [
         strengthIncr: 2.1,
         agilityIncr: 2.8,
         intelligenceIncr: 1.8,
+
+        id: undefined,
     },
 
     {
@@ -1972,6 +2128,8 @@ export default [
         strengthIncr: 2.4,
         agilityIncr: 2.7,
         intelligenceIncr: 2,
+
+        id: undefined,
     },
 
     {
@@ -1997,6 +2155,8 @@ export default [
         strengthIncr: 2,
         agilityIncr: 3.1,
         intelligenceIncr: 2,
+
+        id: undefined,
     },
     
     {
@@ -2022,6 +2182,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2047,6 +2209,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2072,6 +2236,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2097,6 +2263,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2122,6 +2290,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2147,6 +2317,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2172,6 +2344,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2197,6 +2371,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2222,6 +2398,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2247,6 +2425,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2272,6 +2452,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2297,6 +2479,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2322,6 +2506,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2347,6 +2533,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2372,6 +2560,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2397,6 +2587,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2422,6 +2614,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2447,6 +2641,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2472,6 +2668,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2497,6 +2695,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2522,6 +2722,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2547,6 +2749,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2572,6 +2776,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2597,6 +2803,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2622,6 +2830,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2647,6 +2857,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2672,6 +2884,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2697,6 +2911,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2722,6 +2938,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2747,6 +2965,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2772,6 +2992,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2797,6 +3019,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2822,6 +3046,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2847,6 +3073,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2872,6 +3100,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2897,6 +3127,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2922,6 +3154,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2947,6 +3181,8 @@ export default [
         strengthIncr: undefined,
         agilityIncr: undefined,
         intelligenceIncr: undefined,
+
+        id: undefined,
     },
 
     {
@@ -2972,6 +3208,8 @@ export default [
         strengthIncr: 3,
         agilityIncr: 1,
         intelligenceIncr: 3.1,
+
+        id: undefined,
     },
 
     {
@@ -2997,6 +3235,8 @@ export default [
         strengthIncr: 3,
         agilityIncr: 1.4,
         intelligenceIncr: 3.6,
+
+        id: undefined,
     },
 
     {
@@ -3022,6 +3262,8 @@ export default [
         strengthIncr: 2.6,
         agilityIncr: 1.7,
         intelligenceIncr: 3.6,
+
+        id: undefined,
     },
 
     {
@@ -3047,6 +3289,8 @@ export default [
         strengthIncr: 2.3,
         agilityIncr: 1.4,
         intelligenceIncr: 3.3,
+
+        id: undefined,
     },
 
     {
@@ -3072,5 +3316,7 @@ export default [
         strengthIncr: 2.1,
         agilityIncr: 1.2,
         intelligenceIncr: 3.3,
+
+        id: undefined,
     },
 ];
