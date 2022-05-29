@@ -325,6 +325,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -348,6 +350,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -421,6 +425,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -444,6 +450,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -467,6 +475,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -490,6 +500,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -513,6 +525,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -536,6 +550,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -584,6 +600,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -607,6 +625,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -630,6 +650,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -703,6 +725,8 @@ export default [
     },
 
     {
+        name: '',
+        
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -726,6 +750,8 @@ export default [
     },
 
     {
+        name: '',
+        
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -774,6 +800,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -797,6 +825,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -820,6 +850,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -843,6 +875,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -891,6 +925,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -914,6 +950,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -937,6 +975,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1035,6 +1075,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1058,6 +1100,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1106,6 +1150,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1129,6 +1175,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1152,6 +1200,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1175,6 +1225,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1198,6 +1250,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1221,6 +1275,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1294,6 +1350,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1317,6 +1375,8 @@ export default [
     },
 
     {
+        name: '',
+        
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1340,6 +1400,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1363,6 +1425,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1411,6 +1475,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1434,6 +1500,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1457,6 +1525,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1480,6 +1550,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1503,6 +1575,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1551,6 +1625,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1574,6 +1650,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1597,6 +1675,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1695,6 +1775,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1818,6 +1900,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1916,6 +2000,8 @@ export default [
     },
     
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1939,6 +2025,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1962,6 +2050,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1985,6 +2075,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2008,6 +2100,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2031,6 +2125,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2054,6 +2150,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2077,6 +2175,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2100,6 +2200,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2123,6 +2225,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2146,6 +2250,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2169,6 +2275,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2192,6 +2300,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2215,6 +2325,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2238,6 +2350,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2261,6 +2375,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2284,6 +2400,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2307,6 +2425,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2330,52 +2450,8 @@ export default [
     },
 
     {
-        attackSpeed: undefined,
-        damage: undefined,
-        damageIncr: undefined,
-        attackRange: undefined,
-        speed: undefined,
-        manaRestore: undefined,
-        armor: undefined,
-        healthRestore: undefined,
+        name: '',
 
-        health: undefined,
-        mana: undefined,
-
-        mainAttribute: 'intelligence',
-        strength: undefined,
-        agility: undefined,
-        intelligence: undefined,
-
-        strengthIncr: undefined,
-        agilityIncr: undefined,
-        intelligenceIncr: undefined,
-    },
-
-   {
-        attackSpeed: undefined,
-        damage: undefined,
-        damageIncr: undefined,
-        attackRange: undefined,
-        speed: undefined,
-        manaRestore: undefined,
-        armor: undefined,
-        healthRestore: undefined,
-
-        health: undefined,
-        mana: undefined,
-
-        mainAttribute: 'intelligence',
-        strength: undefined,
-        agility: undefined,
-        intelligence: undefined,
-
-        strengthIncr: undefined,
-        agilityIncr: undefined,
-        intelligenceIncr: undefined,
-    },
-
-    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2399,6 +2475,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2422,6 +2500,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2445,6 +2525,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2468,6 +2550,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2491,6 +2575,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2514,6 +2600,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2537,6 +2625,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2560,6 +2650,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2583,6 +2675,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2606,6 +2700,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2629,6 +2725,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2652,6 +2750,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2675,6 +2775,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2698,6 +2800,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2721,6 +2825,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2744,6 +2850,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2767,6 +2875,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2790,6 +2900,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2813,6 +2925,8 @@ export default [
     },
 
     {
+        name: '',
+
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2836,71 +2950,127 @@ export default [
     },
 
     {
-        attackSpeed: undefined,
-        damage: undefined,
-        damageIncr: undefined,
-        attackRange: undefined,
-        speed: undefined,
-        manaRestore: undefined,
-        armor: undefined,
-        healthRestore: undefined,
+        name: 'Warlock',
+        
+        attackSpeed: 110,
+        damage: 54,
+        damageIncr: 3.1,
+        attackRange: 600,
+        speed: 290,
+        manaRestore: 1.2,
+        armor: 2.7,
+        healthRestore: 2.6,
 
-        health: undefined,
-        mana: undefined,
+        health: 680,
+        mana: 375,
 
         mainAttribute: 'intelligence',
-        strength: undefined,
-        agility: undefined,
-        intelligence: undefined,
+        strength: 24,
+        agility: 10,
+        intelligence: 25,
 
-        strengthIncr: undefined,
-        agilityIncr: undefined,
-        intelligenceIncr: undefined,
+        strengthIncr: 3,
+        agilityIncr: 1,
+        intelligenceIncr: 3.1,
     },
 
     {
-        attackSpeed: undefined,
-        damage: undefined,
-        damageIncr: undefined,
-        attackRange: undefined,
-        speed: undefined,
-        manaRestore: undefined,
-        armor: undefined,
-        healthRestore: undefined,
+        name: 'Windranger',
 
-        health: undefined,
-        mana: undefined,
+        attackSpeed: 132,
+        damage: 48,
+        damageIncr: 3.6,
+        attackRange: 600,
+        speed: 290,
+        manaRestore: 0.9,
+        armor: 1.8,
+        healthRestore: 2,
+
+        health: 560,
+        mana: 291,
 
         mainAttribute: 'intelligence',
-        strength: undefined,
-        agility: undefined,
-        intelligence: undefined,
+        strength: 18,
+        agility: 17,
+        intelligence: 18,
 
-        strengthIncr: undefined,
-        agilityIncr: undefined,
-        intelligenceIncr: undefined,
+        strengthIncr: 3,
+        agilityIncr: 1.4,
+        intelligenceIncr: 3.6,
     },
 
     {
-        attackSpeed: undefined,
-        damage: undefined,
-        damageIncr: undefined,
-        attackRange: undefined,
-        speed: undefined,
-        manaRestore: undefined,
-        armor: undefined,
-        healthRestore: undefined,
+        name: 'Winter Wyvern',
 
-        health: undefined,
-        mana: undefined,
+        attackSpeed: 116,
+        damage: 43,
+        damageIncr: 3.6,
+        attackRange: 425,
+        speed: 285,
+        manaRestore: 1.3,
+        armor: 2.7,
+        healthRestore: 2.6,
+
+        health: 680,
+        mana: 387,
 
         mainAttribute: 'intelligence',
-        strength: undefined,
-        agility: undefined,
-        intelligence: undefined,
+        strength: 24,
+        agility: 16,
+        intelligence: 26,
 
-        strengthIncr: undefined,
-        agilityIncr: undefined,
-        intelligenceIncr: undefined,
+        strengthIncr: 2.6,
+        agilityIncr: 1.7,
+        intelligenceIncr: 3.6,
+    },
+
+    {
+        name: 'Witch Doctor',
+
+        attackSpeed: 113,
+        damage: 56,
+        damageIncr: 3.3,
+        attackRange: 600,
+        speed: 300,
+        manaRestore: 1.1,
+        armor: 2.2,
+        healthRestore: 2,
+
+        health: 560,
+        mana: 339,
+
+        mainAttribute: 'intelligence',
+        strength: 18,
+        agility: 13,
+        intelligence: 22,
+
+        strengthIncr: 2.3,
+        agilityIncr: 1.4,
+        intelligenceIncr: 3.3,
+    },
+
+    {
+        name: 'zeus',
+
+        attackSpeed: 111,
+        damage: 59,
+        damageIncr: 3.3,
+        attackRange: 380,
+        speed: 315,
+        manaRestore: 1.1,
+        armor: 3.8,
+        healthRestore: 2.1,
+
+        health: 580,
+        mana: 339,
+
+        mainAttribute: 'intelligence',
+        strength: 19,
+        agility: 11,
+        intelligence: 22,
+
+        strengthIncr: 2.1,
+        agilityIncr: 1.2,
+        intelligenceIncr: 3.3,
     },
 ];

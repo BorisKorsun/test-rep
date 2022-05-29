@@ -1,3 +1,7 @@
 import data from './dotaHeroData';
 
-console.log(data)
+const names = data.map(x => {
+     return x.name
+})
+
+console.log(names)
