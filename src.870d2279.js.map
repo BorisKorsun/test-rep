@@ -1,1 +1,0 @@
-{"version":3,"sources":["js/main.js","index.js"],"names":[],"mappings":";;;AAAA,aAAA,QAAA;;ACCA,aADA,QAAA,oBACA,QAAA","file":"src.870d2279.js","sourceRoot":"../src","sourcesContent":["import './test.js';","import './sass/main.scss';\nimport './js/main.js';"]}
