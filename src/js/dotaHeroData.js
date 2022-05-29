@@ -1,5 +1,5 @@
-export default {
-    abaddon: {
+export default [
+    {
         name: 'Abaddon',
 
         attackSpeed: 143,
@@ -24,7 +24,7 @@ export default {
         intelligenceIncr: 2,
     },
 
-    alchemist: {
+    {
         name: 'Alchemist',
 
         attackSpeed: 122,
@@ -49,7 +49,7 @@ export default {
         intelligenceIncr: 1.8,
     },
 
-    axe: {
+    {
         name: 'Axe',
 
         attackSpeed: 120,
@@ -74,7 +74,7 @@ export default {
         intelligenceIncr: 1.6,
     },
 
-    beastmaster: {
+    {
         name: 'Beastmaster',
 
         attackSpeed: 117,
@@ -99,7 +99,7 @@ export default {
         intelligenceIncr: 1.9,
     },
 
-    brewmaster: {
+    {
         name: 'Brewmaster',
 
         attackSpeed: undefined,
@@ -124,7 +124,7 @@ export default {
         intelligenceIncr: undefined,
     },
     
-    bristleback: {
+    {
         name: 'Bristleback',
 
         attackSpeed: 110,
@@ -149,7 +149,7 @@ export default {
         intelligenceIncr: 2.8,
     },
 
-    centaurWarrunner: {
+    {
         name: 'Centaur Warrunner',
         
         attackSpeed: undefined,
@@ -174,7 +174,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    chaosKnight: {
+    {
         name: 'Chaos Knight',
 
         attackSpeed: 117,
@@ -199,7 +199,7 @@ export default {
         intelligenceIncr: 1.6,
     },
 
-    clockwerk: {
+    {
         name: 'Clockwerk',
         
         attackSpeed: undefined,
@@ -224,7 +224,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    dawnbreaker: {
+    {
         name: 'Dawnbreaker',
 
         attackSpeed: undefined,
@@ -249,7 +249,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    doom: {
+    {
         name: 'Doom',
 
         attackSpeed: 99,
@@ -274,7 +274,7 @@ export default {
         intelligenceIncr: 1.7,
     },
 
-    dragonKnight: {
+    {
         name: 'Dragon Knight',
 
         attackSpeed: undefined,
@@ -299,7 +299,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    earthSpirit: {
+    {
         name: 'Earth Spirit',
 
         attackSpeed: undefined,
@@ -324,7 +324,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    earthShaker: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -347,7 +347,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    elderTitan: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -370,7 +370,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    huskar: {
+    {
         name: 'Huskar',
 
         attackSpeed: 116,
@@ -395,7 +395,7 @@ export default {
         intelligenceIncr: 1.5,
     },
 
-    io: {
+    {
         name: 'Io',
 
         attackSpeed: 114,
@@ -420,7 +420,7 @@ export default {
         intelligenceIncr: 1.7,
     },
 
-    kunkka: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -443,7 +443,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    legionCommander: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -466,7 +466,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    lifestealer: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -489,7 +489,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    lycan: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -512,7 +512,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    magnus: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -535,7 +535,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    marci: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -558,7 +558,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    mars: {
+    {
         name: 'Mars',
 
         attackSpeed: 113,
@@ -583,7 +583,7 @@ export default {
         intelligenceIncr: 2.2,
     },
 
-    nightStalker: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -606,7 +606,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    omniknight: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -629,7 +629,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    phoenix: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -652,7 +652,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    primalBeast: {
+    {
         name: 'Primal Beast',
 
         attackSpeed: 108,
@@ -677,7 +677,7 @@ export default {
         intelligenceIncr: 1.4,
     },
 
-    pudge: {
+    {
         name: 'Pudge',
 
         attackSpeed: 114,
@@ -702,7 +702,7 @@ export default {
         intelligenceIncr: 1.8,
     },
 
-    sandKing: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -725,7 +725,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    slardar: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -748,7 +748,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    snapFire: {
+    {
         name: 'Snap Fire',
 
         attackSpeed: 123,
@@ -773,7 +773,7 @@ export default {
         intelligenceIncr: 2.2,
     },
 
-    spiritBreaker: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -796,7 +796,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    sven: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -819,7 +819,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    tidehunter: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -842,7 +842,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    timbersaw: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -865,7 +865,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    tiny: {
+    {
         name: 'Tiny',
 
         attackSpeed: 90,
@@ -890,7 +890,7 @@ export default {
         intelligenceIncr: 2.2,
     },
 
-    treantProtector: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -913,7 +913,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    tusk: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -936,7 +936,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    underlord: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -959,7 +959,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    undying: {
+    {
         name: 'Undying',
         
         attackSpeed: 110,
@@ -984,7 +984,7 @@ export default {
         intelligenceIncr: 2.8,
     },
 
-    wraithKing: {
+    {
         name: 'Wraith King',
 
         attackSpeed: 116,
@@ -1009,7 +1009,7 @@ export default {
         intelligenceIncr: 1.6,
     },
 
-    antiMage: {
+    {
         name: 'Anti Mage',
 
         attackSpeed: 150,
@@ -1034,7 +1034,7 @@ export default {
         intelligenceIncr: 1.8,
     },
 
-    arcWarden: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1057,7 +1057,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    bloodSeeker: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1080,7 +1080,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    bountyHunter: {
+    {
         name: 'Bounty Hunter',
 
         attackSpeed: 121,
@@ -1105,7 +1105,7 @@ export default {
         intelligenceIncr: 1.9,
     },
 
-    broodmother: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1128,7 +1128,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    clinkz: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1151,7 +1151,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    drowRanger: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1174,7 +1174,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    emberSpirit: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1197,7 +1197,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    facelessVoid: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1220,7 +1220,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    gyrocopter: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1243,7 +1243,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    hoodwink: {
+    {
         name: 'Hoodwink',
 
         attackSpeed: 105,
@@ -1268,7 +1268,7 @@ export default {
         intelligenceIncr: 2.9,
     },
 
-    juggernaut: {
+    {
         name: 'Juggernaut',
 
         attackSpeed: 174,
@@ -1293,7 +1293,7 @@ export default {
         intelligenceIncr: 1.4,
     },
 
-    loneDruid: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1316,7 +1316,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    luna: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1339,7 +1339,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    medusa: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1362,7 +1362,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    meepo: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1385,7 +1385,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    mirana: {
+    {
         name: 'Mirana',
 
         attackSpeed: 134,
@@ -1410,7 +1410,7 @@ export default {
         intelligenceIncr: 1.9,
     },
 
-    monkeyKing: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1433,7 +1433,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    morphling: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1456,7 +1456,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    nagaSiren: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1479,7 +1479,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    nyxAssassin: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1502,7 +1502,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    pangolier: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1525,7 +1525,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    phantomAssassin: {
+    {
         name: 'Phantom Assassin',
 
         attackSpeed: 123,
@@ -1550,7 +1550,7 @@ export default {
         intelligenceIncr: 1.4,
     },
 
-    phantomLancer: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1573,7 +1573,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    razor: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1596,7 +1596,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    riki: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1619,7 +1619,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    shadowFiend: {
+    {
         name: 'Shadow Fiend',
 
         attackSpeed: 127,
@@ -1644,7 +1644,7 @@ export default {
         intelligenceIncr: 2.2,
     },
 
-    slark: {
+    {
         name: 'Slark',
 
         attackSpeed: 131,
@@ -1669,7 +1669,7 @@ export default {
         intelligenceIncr: 1.7,
     },
 
-    sniper: {
+    {
         name: 'Sniper',
 
         attackSpeed: 127,
@@ -1694,7 +1694,7 @@ export default {
         intelligenceIncr: 2.6,
     },
 
-    spectre: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1717,7 +1717,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    templarAssassin: {
+    {
         name: 'Templar Assassin',
 
         attackSpeed: 123,
@@ -1742,7 +1742,7 @@ export default {
         intelligenceIncr: 2,
     },
 
-    terrorblade: {
+    {
         name: 'Terrorblade',
 
         attackSpeed: 149,
@@ -1767,7 +1767,7 @@ export default {
         intelligenceIncr: 1.6,
     },
 
-    trollWarlord: {
+    {
         name: 'Troll Warlord',
 
         attackSpeed: 121,
@@ -1792,7 +1792,7 @@ export default {
         intelligenceIncr: 1,
     },
 
-    ursa: {
+    {
         name: 'Ursa',
 
         attackSpeed: 117,
@@ -1817,7 +1817,7 @@ export default {
         intelligenceIncr: 1.5,
     },
 
-    vengefulSpirit: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1840,7 +1840,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    venomancer: {
+    {
         name: 'Venomancer',
 
         attackSpeed: 139,
@@ -1865,7 +1865,7 @@ export default {
         intelligenceIncr: 1.8,
     },
 
-    viper: {
+    {
         name: 'viper',
 
         attackSpeed: 141,
@@ -1890,7 +1890,7 @@ export default {
         intelligenceIncr: 2,
     },
 
-    weaver: {
+    {
         name: 'Weaver',
 
         attackSpeed: 129,
@@ -1915,7 +1915,7 @@ export default {
         intelligenceIncr: 2,
     },
     
-    ancientApparition: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1938,7 +1938,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    bane: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1961,7 +1961,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    batrider: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -1984,7 +1984,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    chen: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2007,7 +2007,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    crystalMaiden: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2030,7 +2030,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    darkSeer: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2053,7 +2053,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    darkWillow: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2076,7 +2076,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    dazzle: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2099,7 +2099,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    deathProphet: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2122,7 +2122,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    disruptor: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2145,7 +2145,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    enchantress: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2168,7 +2168,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    enigma: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2191,7 +2191,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    grimstroke: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2214,7 +2214,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    invoker: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2237,7 +2237,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    jakiro: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2260,7 +2260,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    keeperOfTheLight: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2283,7 +2283,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    leshrac: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2306,7 +2306,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    lich: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2329,7 +2329,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    lina: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2352,7 +2352,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    lion: {
+   {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2375,7 +2375,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    naturesProphet: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2398,7 +2398,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    necrophos: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2421,7 +2421,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    ogreMagi: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2444,7 +2444,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    oracle: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2467,7 +2467,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    outworldDestroyer: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2490,7 +2490,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    puck: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2513,7 +2513,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    pugna: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2536,7 +2536,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    queenOfPain: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2559,7 +2559,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    rubick: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2582,7 +2582,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    shadowDemon: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2605,7 +2605,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    shadowShaman: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2628,7 +2628,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    silencer: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2651,7 +2651,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    skywrathMage: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2674,7 +2674,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    stormSpirit: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2697,7 +2697,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    techies: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2720,7 +2720,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    tinker: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2743,7 +2743,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    visage: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2766,7 +2766,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    voidSpirit: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2789,7 +2789,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    warlock: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2812,7 +2812,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    windranger: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2835,7 +2835,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    winterWyvern: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2858,7 +2858,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    witchDoctor: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2881,7 +2881,7 @@ export default {
         intelligenceIncr: undefined,
     },
 
-    zeus: {
+    {
         attackSpeed: undefined,
         damage: undefined,
         damageIncr: undefined,
@@ -2903,4 +2903,4 @@ export default {
         agilityIncr: undefined,
         intelligenceIncr: undefined,
     },
-};
+];
